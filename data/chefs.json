@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 1000,
+    "short_biodata": "John Smith is a world-renowned chef with over 10 years of experience in the culinary industry. He has created over 50 recipes that have become household favorites, and his dishes have been enjoyed by millions of people around the world.",
+    "food_picture": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "chef_name": "Jane Doe",
+    "years_of_experience": 15,
+    "number_of_recipes": 75,
+    "likes": 1500,
+    "short_biodata": "Jane Doe is a highly skilled chef with over 15 years of experience in the culinary arts. She has created over 75 recipes that have become staples in the culinary world, and her dishes have earned her numerous accolades and awards.",
+    "food_picture": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "chef_name": "Jane Doe",
+    "years_of_experience": 15,
+    "number_of_recipes": 75,
+    "likes": 1500,
+    "short_biodata": "Jane Doe is a highly skilled chef with over 15 years of experience in the culinary arts. She has created over 75 recipes that have become staples in the culinary world, and her dishes have earned her numerous accolades and awards.",
+    "food_picture": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "chef_name": "Jane Doe",
+    "years_of_experience": 15,
+    "number_of_recipes": 75,
+    "likes": 1500,
+    "short_biodata": "Jane Doe is a highly skilled chef with over 15 years of experience in the culinary arts. She has created over 75 recipes that have become staples in the culinary world, and her dishes have earned her numerous accolades and awards.",
+    "food_picture": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "chef_name": "Jane Doe",
+    "years_of_experience": 15,
+    "number_of_recipes": 75,
+    "likes": 1500,
+    "short_biodata": "Jane Doe is a highly skilled chef with over 15 years of experience in the culinary arts. She has created over 75 recipes that have become staples in the culinary world, and her dishes have earned her numerous accolades and awards.",
+    "food_picture": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "chef_name": "Jane Doe",
+    "years_of_experience": 15,
+    "number_of_recipes": 75,
+    "likes": 1500,
+    "short_biodata": "Jane Doe is a highly skilled chef with over 15 years of experience in the culinary arts. She has created over 75 recipes that have become staples in the culinary world, and her dishes have earned her numerous accolades and awards.",
+    "food_picture": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+  }
+]
